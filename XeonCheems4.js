@@ -8987,7 +8987,7 @@ case 'allmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'All Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」	
+await reply(`╔═══════✪「 OWNER 」	
 ╠ ${prefix}self
 ╠ ${prefix}public
 ╠ ${prefix}antitag
@@ -9712,7 +9712,7 @@ case 'ownermenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Owner Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 OWNER 」	
+await reply(`╔═══════✪「 OWNER 」	
 ╠ ${prefix}self
 ╠ ${prefix}public
 ╠ ${prefix}antitag
@@ -9737,7 +9737,7 @@ case 'groupmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Group Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 GROUP 」	
+await reply(`╔═══════✪「 GROUP 」	
 ╠${prefix}groupsetting
 ╠${prefix}grouplink
 ╠${prefix}ephemeral [option]
@@ -9783,7 +9783,7 @@ case 'rpgmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Rpg Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 RPG 」	
+await reply(`╔═══════✪「 RPG 」	
 ╠${prefix}hunt
 ╠${prefix}mine
 ╠${prefix}fish
@@ -9801,7 +9801,7 @@ case 'makermenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Maker Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 MAKER 」	
+await reply(`╔═══════✪「 MAKER 」	
 ╠${prefix}candy
 ╠${prefix}8bit
 ╠${prefix}horror
@@ -9915,7 +9915,7 @@ case 'downloadmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Download Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 DOWNLOAD 」	
+await reply(`╔═══════✪「 DOWNLOAD 」	
 ╠${prefix}instagram [url]
 ╠${prefix}igtv [url]
 ╠${prefix}igstory [username]
@@ -9942,7 +9942,7 @@ case 'searchmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Search Menu')
-await XeonBotInc.send5ButImg(from, `╔═══════✪「 SEARCH 」	
+await reply(`╔═══════✪「 SEARCH 」	
 ╠${prefix}play [query]
 ╠${prefix}song [query]
 ╠${prefix}yts [query]
